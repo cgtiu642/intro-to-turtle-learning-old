@@ -1,5 +1,5 @@
 # Introduction to Python Turtle
-Welcome to the turtle-learning wiki!  
+Welcome to the intro-to-turtle-learning wiki!  
 <img src="https://github.com/cgtiu642/tlc-turtle-curriculum/assets/97239180/d8e01132-efe5-4c61-96e3-5de094263452" width="300" height="400">
 
 ## Scope of Learning
