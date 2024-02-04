@@ -65,6 +65,7 @@ d. `t.lt(90)`
 <details>
 <summary>Answer</summary>
 b
+</details>
 
 ### Question 2
 What is the purpose of the `t.penup()` command?  
@@ -76,36 +77,40 @@ d. Increase the thickness of the pen
 <details>
 <summary>Answer</summary>
 a
+</details>
 
 ### Question 3
 How do you change the background color of the graphics window to green?  
-a. t.bgcolor("red")  
-b. t.backgroundcolor("green")  
-c. t.background("green")  
-d. t.bgcolor("green")
+a. `t.bgcolor("red")`  
+b. `t.backgroundcolor("green")`  
+c. `t.background("green")`  
+d. `t.bgcolor("green")`
 
 <details>
 <summary>Answer</summary>
 d
+</details>
 
 ### Question 4
 Which command is used to end execution?  
-a. t.done()  
-b. t.leave()  
-c. t.exit()  
-d. t.finish()
+a. `t.done()`  
+b. `t.leave()`  
+c. `t.exit()`  
+d. `t.finish()`
 
 <details>
 <summary>Answer</summary>
 a
+</details>
 
 ### Question 5
 Which command is used to hide the cursor?  
-a. t.hide()  
-b. turtle.hide()  
-c. t.hideturtle()  
-d. turtle.hideturtle()
+a. `t.hide()`  
+b. `turtle.hide()`  
+c. `t.hideturtle()`  
+d. `turtle.hideturtle()`
 
 <details>
 <summary>Answer</summary>
 c
+</details>
