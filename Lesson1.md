@@ -56,7 +56,7 @@ Cursor size: Finally, we can customize the cursor itself using `t.shapesize()`. 
 Note: Assume we have imported the Turtle module as `t`.
 
 ### Question 1
-Which command is equivalent to t.backward(90)?  
+Which command is the same as t.backward(90)?  
 a. `t.fd(90)`  
 b. `t.bk(90)`  
 c. `t.rt(90)`  
@@ -113,4 +113,31 @@ d. `turtle.hideturtle()`
 <details>
 <summary>Answer</summary>
 c
+</details>
+
+## Exercise
+In this lesson, we will be drawing lines. Complete the following tasks using the functions taught above.  
+
+a. (Easy) Draw a straight line forward that is 25 pixels long.
+<details>
+<summary>Hint</summary>
+Use <code>t.forward()</code>
+</details>
+
+b. (Medium) Leave a gap of 10 pixels, then continue the drawing with a line that is 50 pixels long.
+<details>
+<summary>Hint</summary>
+Use <code>t.penup()</code>
+</details>
+
+c. (Medium) Draw a zigzag line that has line segments that are 20 pixels long and separated by 45 degrees.
+<details>
+<summary>Hint</summary>
+Use <code>t.setheading()</code>
+</details>
+
+d. (Hard) Draw an 8-point star.
+<details>
+<summary>Hint</summary>
+This is optional, and it will be covered in later modules using loops instead.
 </details>
