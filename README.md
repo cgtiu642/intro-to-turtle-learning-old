@@ -25,9 +25,3 @@ This course focuses on building an understanding of Python Turtle through a comb
 | 10 | Project 3: ??? |
 | 11 | Project 4: ??? |
 | 12 | Project 5: Turtle Race |
-
-The Logic Coders | +65 9695 3777 | www.thelogiccoders.com.sg
-
-<div style="background-color: #f0f0f0; padding: 15px; border-radius: 10px;">
-    <p>This is a note box with a gray background and rounded edges.</p>
-</div>
